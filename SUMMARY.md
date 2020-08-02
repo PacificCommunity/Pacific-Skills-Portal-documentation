@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Project Information](README.md)
+* [Information](README.md)
 * [Partners](partners.md)
 
 ## Information Architecture
